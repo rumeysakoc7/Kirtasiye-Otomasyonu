@@ -1,0 +1,148 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\6lıcıtcıtlıdosya.png" />
+    <None Remove="images\Bic silinebilir pastel boya.png" />
+    <None Remove="images\cizgilidefter.jpeg" />
+    <None Remove="images\Edding Tahta Kalemi.png" />
+    <None Remove="images\Ekran görüntüsü 2024-12-21 235355.png" />
+    <None Remove="images\Faber-Castell kalem kutu çocuk.png" />
+    <None Remove="images\Faber-Castell kalem kutu.png" />
+    <None Remove="images\Faber-Castell Tükenmez Klaem.png" />
+    <None Remove="images\Faber-Castell24lüpastelboya.png" />
+    <None Remove="images\FaberCastel4lükursunkalem.png" />
+    <None Remove="images\FaberCastelmavisilg.png" />
+    <None Remove="images\Gap kalem kutu.png" />
+    <None Remove="images\Keskin ajanda defter gri kapak.png" />
+    <None Remove="images\Keskin kırmızı kapak 72 yaprak kareli defter.png" />
+    <None Remove="images\Keskin kırımızı kapak ajanda defter.png" />
+    <None Remove="images\Keskin mor kapak 72 yaprak kareli defter.png" />
+    <None Remove="images\Küçük meşe palamudu okuma kitabı.png" />
+    <None Remove="images\Küçük prens okuma kitabı.png" />
+    <None Remove="images\Noki 5%27li fosforlu kalem.png" />
+    <None Remove="images\Noki klasör dosya.png" />
+    <None Remove="images\Noki postit 400 sayfa.png" />
+    <None Remove="images\NokiDosya.png" />
+    <None Remove="images\Pritt 12%27li keçeli kalem.png" />
+    <None Remove="images\Pritt stick yapıştırıcı.png" />
+    <None Remove="images\Rotring 0.7 uçlu kalem.png" />
+    <None Remove="images\Rotring 2%27li silgi.png" />
+    <None Remove="images\Sevginin gücü  okuma kitabı.png" />
+    <None Remove="images\Yemek seçen kirpi okuma kitabı.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="images\6lıcıtcıtlıdosya.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Bic silinebilir pastel boya.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\cizgilidefter.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Edding Tahta Kalemi.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Ekran görüntüsü 2024-12-21 235355.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Faber-Castell kalem kutu çocuk.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Faber-Castell kalem kutu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Faber-Castell Tükenmez Klaem.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Faber-Castell24lüpastelboya.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\FaberCastel4lükursunkalem.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\FaberCastelmavisilg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Gap kalem kutu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Keskin ajanda defter gri kapak.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Keskin kırmızı kapak 72 yaprak kareli defter.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Keskin kırımızı kapak ajanda defter.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Keskin mor kapak 72 yaprak kareli defter.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Küçük meşe palamudu okuma kitabı.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Küçük prens okuma kitabı.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Noki 5'li fosforlu kalem.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Noki klasör dosya.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Noki postit 400 sayfa.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\NokiDosya.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Pritt 12'li keçeli kalem.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Pritt stick yapıştırıcı.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Rotring 0.7 uçlu kalem.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Rotring 2'li silgi.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Sevginin gücü  okuma kitabı.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\Yemek seçen kirpi okuma kitabı.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
