@@ -50,3 +50,16 @@ Projeyi çalıştırmak için:
 ## Mimari Not
 
 Bu proje eğitim amacıyla geliştirilmiştir. Uygulamada işlemlerin büyük bölümü Form sınıfları içinde yazılmıştır, bu nedenle proje tam olarak OOP ve katmanlı mimariye uygun değildir. İleride proje OOP yapısına uygun şekilde geliştirilebilir.
+
+## Ekran Görüntüleri
+
+### Kullanıcı Giriş Ekranı   [Giriş ekran görüntüsünü aç](giris.png)
+---
+
+### Ürün ve Stok Yönetimi  [Ürün ekran görüntüsünü aç](urunler.png)
+---
+
+### Satış İşlemleri  [Satış ekran görüntüsünü aç](siparis.png)
+---
+
+### Raporlama Sistemi  [Rapor ekran görüntüsünü aç](rapor.png)
